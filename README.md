@@ -29,4 +29,4 @@
 * Java Desktop: Swing e JavaFX
 * Desenvolver projetos reais
 
-![CertificadoJava](D:\Certificados\Java 2022.jpg)
+![Java 2022](https://github.com/efirminov/Java-2022-Completo/assets/64451061/128f197f-ba20-4909-b74f-3eed6ab97d50)
