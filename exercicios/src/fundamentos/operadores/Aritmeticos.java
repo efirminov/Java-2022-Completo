@@ -1,4 +1,4 @@
-package operadores;
+package fundamentos.operadores;
 
 public class Aritmeticos {
 
