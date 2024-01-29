@@ -1,4 +1,4 @@
-package classe;
+package classe.desafio;
 
 public class Jantar {
 	
@@ -11,8 +11,10 @@ public class Jantar {
 		
 		System.out.println(p.apresentar());
 		p.comer(c1);
+		
 		System.out.println(p.apresentar());
 		p.comer(c2);
+		
 		System.out.println(p.apresentar());
 	}
 
